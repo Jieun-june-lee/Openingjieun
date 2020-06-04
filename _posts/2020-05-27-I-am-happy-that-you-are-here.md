@@ -3,8 +3,8 @@ layout: post
 permalink: /I am happy that you are here./
 title: 'I am happy that you are here.'
 date: 2020-05-27 16:30:00 +09:00
-feature: '/img/posts/03/01.jpg'
-background: '/img/posts/03/02.jpg'
+feature: '/img/posts/02/01.jpg'
+background: '/img/posts/02/02.jpg'
 categories:
   - life-essay
 tags:
