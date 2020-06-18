@@ -6,12 +6,12 @@ author:             "Jieun Lee"
 baseurl:            "/"
 url:                "https://openingjieun.world"
 locale:             "ko_KR"
-thumbnail:          "/img/1.jpg"
+thumbnail:          "/img/111.jpg"
 
 
 # Social Profiles
 twitter_username:   twitter_username
-instagram_username: /jieun_june__lee/ 
+instagram_username: /jieun_june__lee/
 facebook_username:  facebook_username
 linkedin_username:  linkedin_username
 
