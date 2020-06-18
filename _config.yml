@@ -1,17 +1,17 @@
 title:              "OPENING JIEUN WOLRD"
 tagline:            ""
 email:              "xxjieun0711@gmail.com"
-description:        "대한민국 20대 여성의 인생 여행 에세이입니다."
+description:        "This blog is a glimpse into my adventures."
 author:             "Jieun Lee"
 baseurl:            "/"
 url:                "https://openingjieun.world"
 locale:             "ko_KR"
-thumbnail:          "/img/posts/1.jpg"
+thumbnail:          "/img/1.jpg"
 
 
 # Social Profiles
 twitter_username:   twitter_username
-instagram_username: https://www.instagram.com/jieun_june__lee/
+instagram_username: /jieun_june__lee/ 
 facebook_username:  facebook_username
 linkedin_username:  linkedin_username
 
