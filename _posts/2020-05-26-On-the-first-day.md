@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /On the first day/
+permalink: /episode 1/
 title: 'On the first day'
 date: 2020-05-26 16:30:00 +09:00
 feature: '/img/posts/01/h1.jpg'

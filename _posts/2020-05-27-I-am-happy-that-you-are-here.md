@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /I am happy that you are here./
+permalink: /episode 2/
 title: 'I am happy that you are here.'
 date: 2020-05-27 16:30:00 +09:00
 feature: '/img/posts/02/01.jpg'

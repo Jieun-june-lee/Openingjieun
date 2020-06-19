@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /opening-jieun/
+permalink: /intro/
 title: 'Finding myself'
 date: 2020-05-25 16:30:00 +09:00
 feature: '/img/posts/00/01.jpg'

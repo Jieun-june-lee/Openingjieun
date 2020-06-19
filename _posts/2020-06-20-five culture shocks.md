@@ -1,10 +1,10 @@
 ---
 layout: post
-permalink: /post5/
+permalink: /episode 4/
 title: 'Five culture shock'
 date: 2020-06-20 16:30:00 +09:00
 feature: '/img/posts/04/01.jpg'
-background: '/img/posts/04/02.jpg'
+background: '/img/posts/04/021.jpg'
 categories:
   - life-essay
 tags:
@@ -15,7 +15,7 @@ tags:
 description: '호주에서 유러피언 여행자들과 살면서 인상적이고 충격적이었던 것들.'
 ---
 
-   ### **문화충격 5가지**###
+   ### **문화충격 5가지**
 
 **1.**  **자유로운 옷차림**
 

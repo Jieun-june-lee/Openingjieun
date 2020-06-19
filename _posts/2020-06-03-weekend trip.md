@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /weekend trip/
+permalink: /episode 3/
 title: 'weekend trip'
 date: 2020-06-03 16:30:00 +09:00
 feature: '/img/posts/03/01.jpg'
